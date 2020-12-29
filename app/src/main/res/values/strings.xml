@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ExampleOfTabLayoutActivity</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello From Fragment Follower</string>
+    <string name="tab_text_1">Following</string>
+    <string name="tab_text_2">Follower</string>
+</resources>
